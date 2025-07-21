@@ -27,4 +27,4 @@ Practice real-world data analysis using only pandas and CSV files — no machine
 - Python (pandas)
 - Jupyter Notebook
 
-> ✅ Created for learning and practice purposes by **Saba Eman**
+Created for learning and practice purposes by **Saba Eman**
